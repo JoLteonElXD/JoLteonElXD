@@ -1,0 +1,3 @@
+functionCreateText()
+ setProperty (text)
+ a
